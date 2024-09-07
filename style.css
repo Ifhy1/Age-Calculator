@@ -81,6 +81,9 @@ input[type=text] {
  input[type=button]:hover {
   background-color: black;
  }
+ input[type=date]{
+  color: black;
+ }
 
  .age {
   display: block;
@@ -92,7 +95,7 @@ input[type=text] {
   font-size: 23px;
   font-weight: normal;
   line-height: 1.5;
-  word-spacing: 1px;
+  word-spacing: normal;
   letter-spacing: 1px;
   color: black;
   padding: 10px;
